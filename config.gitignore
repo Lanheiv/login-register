@@ -1,0 +1,11 @@
+<?php   
+    return  [
+            "database"=> [
+                "host"=>"localhost",
+                "user"=>"root",
+                "password"=>"230207",
+                "dbname"=>"login_register",
+                "charset"=>"utf8mb4"
+            ]
+    ];
+?> 
